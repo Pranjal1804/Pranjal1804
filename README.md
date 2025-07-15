@@ -44,7 +44,7 @@
 ### 🌐 Let’s Connect
 
 <p align="center">
-  <a href="https://pranjalmitra.netlify.app"><img src="https://img.shields.io/badge/Portfolio-ghostbyte.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://pranjalmitra.netlify.app"><img src="https://img.shields.io/badge/Portfolio-pranjalmitra.netlify.app-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/pranjalmitra/"><img src="https://img.shields.io/badge/LinkedIn-Pranjal%20Mitra-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:mitrapranjal2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-mitrapranjal2004@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
 </p>
